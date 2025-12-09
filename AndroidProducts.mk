@@ -8,5 +8,4 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_msmnile.mk
 
-COMMON_LUNCH_CHOICES := \
-    twrp_msmnile-eng
+COMMON_LUNCH_CHOICES := twrp_msmnile-eng
