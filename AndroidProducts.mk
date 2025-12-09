@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_msmnile.mk
+    $(LOCAL_DIR)/twrp_msmnile.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_msmnile-user \
-    omni_msmnile-userdebug \
-    omni_msmnile-eng
+    twrp_msmnile-eng
