@@ -5,6 +5,5 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_msmnile-user
-add_lunch_combo omni_msmnile-userdebug
-add_lunch_combo omni_msmnile-eng
+
+lunch_combo twrp_msmnile-eng
