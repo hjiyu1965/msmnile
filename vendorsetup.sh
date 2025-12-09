@@ -6,4 +6,4 @@
 #
 
 
-lunch_combo twrp_msmnile-eng
+export ALLOW_MISSING_DEPENDENCIES=true
